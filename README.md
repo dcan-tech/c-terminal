@@ -50,8 +50,8 @@ Key Concepts Demonstrated
 
  Build Instructions
 ```
-gcc -o MyTerminal main.c
-./MyTerminal
+gcc -o myterminal.c
+./myterminal
 ```
 Author
 Dylan Canfield
