@@ -1,8 +1,12 @@
-/* Dylan Canfield
- * SD247
- * Project 4: C Terminal
- * */
+/*
+ * MyTerminal - Custom C-Based Shell
+ * Author: Dylan Canfield
+ * Description: A terminal emulator with command parsing and Caesar cipher encryption.
+ * Originally developed for SD247 coursework.
+ */
 
+
+#include "myterminal.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
